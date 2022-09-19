@@ -16,5 +16,4 @@ ipython_config.py
 git rm -r .ipynb_checkpoints/
 
 # Other
-/상가상권정보/data/상가업소정보_201912_01.csv
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
